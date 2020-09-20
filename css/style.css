@@ -1,4 +1,5 @@
 /* font-family: 'Roboto Mono', monospace; */
+
 body {
     background-color: whitesmoke;
     font-family: 'Roboto Mono', monospace;
@@ -13,21 +14,17 @@ body {
 .margin-bottom {
     margin-bottom: 1rem;
 }
-
 input:focus {
-    border: 1px solid red;
     outline: none;
+    border: 1px solid red;
 }
 /* input:hover {
 
-    border: 1px solid blueviolet
+    border: 1px solid blueviolet;
 } */
 #pizza {
     margin-top: 10px;
 }
 input {
-    outline: none;
-}
-textarea {
     outline: none;
 }
